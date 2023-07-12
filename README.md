@@ -1,16 +1,3 @@
 # assainment_9
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![252721111-1c884d5e-bc34-4300-9df1-30848057ad77](https://github.com/riShad241/assainment_9/assets/106663161/c44a01b0-d8c4-44fe-8085-f79a46e103c0)
